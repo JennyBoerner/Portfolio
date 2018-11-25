@@ -225,3 +225,8 @@ img {
 .bottomDiv {
   margin-bottom: 100px;
 }
+
+.emailAddress {
+  text-align: center;
+  font-family: Bradley Hand ITC, Arial, Helvetica, sans-serif;
+}
